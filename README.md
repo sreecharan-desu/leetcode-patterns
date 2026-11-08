@@ -25,3 +25,7 @@ cd websocket-server && npm install && npm run build && npm start
 ## env
 
 none.
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
